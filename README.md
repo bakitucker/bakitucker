@@ -1,6 +1,6 @@
 
 
-<img src="" width="100%">
+<img src="img/bt.png" width="100%">
 
 <p align="center">
   <a href="https://bakitucker.netlify.app/" target="_blank">
