@@ -38,7 +38,7 @@ See [my website](https://bakitucker.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/bakitucker/matching-card-bootcamp/tree/answer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="" target="_blank">
@@ -50,16 +50,16 @@ See [my website](https://bakitucker.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Designer Slot Machine</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="">
+            <img src="img/giphy.png" width="100%"  alt="Slot Machine Game"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/bakitucker/slot-machine-2019-week05" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://designer-to-do-list.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -76,7 +76,7 @@ See [my website](https://bakitucker.netlify.app/) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/bakitucker/baki-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://bakitucker.netlify.app/" target="_blank">
@@ -89,7 +89,7 @@ See [my website](https://bakitucker.netlify.app/) for more information!
       <h3 align="center">Rock Paper Scissors Shoot Game</h3>
         <br />
         <a target="_blank" href="">
-          <img src="" width="100%" alt="Matching Cards"/>
+          <img src="img/rock.png" width="100%" alt="Rock Paper Shoot Game"/>
         </a>
         <br />
         <p align="center">
