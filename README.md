@@ -9,13 +9,13 @@
   <a href="https://www.linkedin.com/in/bakitucker/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://twitter.com/BakiTuckerDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://angel.co/u/baki-tucker" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://docs.google.com/document/d/1Vt28JLY-QNZO3QKcE799KnnNSnC_xg2UEC0164RS5UU/edit" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
@@ -137,13 +137,13 @@ See [my website](https://bakitucker.netlify.app/) for more information!
   <a href="https://www.linkedin.com/in/bakitucker/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://twitter.com/BakiTuckerDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://angel.co/u/baki-tucker" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://docs.google.com/document/d/1Vt28JLY-QNZO3QKcE799KnnNSnC_xg2UEC0164RS5UU/edit" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
