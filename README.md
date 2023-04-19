@@ -69,7 +69,7 @@ See [my website](https://bakitucker.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Nasa Piture Of The Day API</h3>
+      <h3 align="center">Nasa Picture Of The Day API</h3>
       <br />
         <a target="_blank" href="">
           <img src="img/nasagifgif.png" width="100%" alt="Nasa Picture of The Day"/>
